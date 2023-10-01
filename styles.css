@@ -14,20 +14,31 @@ header{
 
 #headerInner{
     text-align: center;
+   
 }
 
 #self{
     border-radius: 50%;
+    margin-top: 40px;
+
 }
 
 h1{
     font-size: 36px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 36px;
 }
+
+header p{
+    margin-bottom: 40px;
+    margin-top: -20px;
+}
+
 
 h2{
     font-size: 32px;
     color: #48BB78;
+    padding-bottom: 0px;
 }
 
 .author_date{
@@ -73,6 +84,8 @@ footer p{
     float: right;
     padding-left: 10px;
 }
+
+
 
 
 .container{
